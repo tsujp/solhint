@@ -48,7 +48,7 @@
     "@stryker-mutator/core": "^2.3.0",
     "@stryker-mutator/javascript-mutator": "^2.3.0",
     "@stryker-mutator/mocha-runner": "^2.3.0",
-    "assert": "1.4.1",
+    "assert": "2.0.0",
     "coveralls": "^3.0.2",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^3.1.0",
