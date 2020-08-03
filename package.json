@@ -35,7 +35,7 @@
     "ast-parents": "0.0.1",
     "chalk": "^2.4.2",
     "commander": "2.18.0",
-    "cosmiconfig": "^5.0.7",
+    "cosmiconfig": "^7.0.0",
     "eslint": "^5.6.0",
     "fast-diff": "^1.1.2",
     "glob": "^7.1.3",
